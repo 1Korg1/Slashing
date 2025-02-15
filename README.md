@@ -1,0 +1,2 @@
+# Slashing
+A penalty mechanism
